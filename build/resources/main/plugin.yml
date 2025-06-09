@@ -1,0 +1,5 @@
+main: io.hamza.github.main.Main
+author: Hamza Al Maliky
+name: Bomber
+version: 1.0
+api-version: 1.21
